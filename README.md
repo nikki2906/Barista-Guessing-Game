@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Barista-Guessing-Game
 =======
 # React + Vite
