@@ -1,7 +1,5 @@
 # Barista-Guessing-Game
 
-# Web Development Project - *Capture Screenshot*
-
 Submitted by: **Nhi Huynh**
 
 This web app: **Inspired by Wordle, memorize coffee drink recipes and quiz yourself on a random real (and possibly discontinued 😉) Starbucks drink's temperature, flavor, milk type, and blendedness. The app will let you know if you're a natural at barista-ing.**
